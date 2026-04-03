@@ -1,12 +1,11 @@
-import React from 'react'
-import { Text, View } from 'react-native'
+import { Text, View } from 'react-native';
 
-const Onboard = () => {
+const Onboarding = () => {
   return (
     <View>
-      <Text>Onboard</Text>
+      <Text>Onboarding</Text>
     </View>
   )
 }
 
-export default Onboard
+export default Onboarding
